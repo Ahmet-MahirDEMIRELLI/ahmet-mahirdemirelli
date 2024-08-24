@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hello there 👋
 
+My name is Ahmet Mahir, and I'm an Computer Engineering student at Yildiz Technical University.
+
+- 🔭 I’m currently working on Rent Car project that has Angular project for [client](https://github.com/Ahmet-MahirDEMIRELLI/Rent-A-Car-Client) side and .Net 8 project for [API](https://github.com/Ahmet-MahirDEMIRELLI/Rent-A-Car-Api) side.
+- 📫 How to reach me: a.mahir.demirelli@gmail.com
 <!--
 **Ahmet-MahirDEMIRELLI/ahmet-mahirdemirelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
