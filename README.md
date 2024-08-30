@@ -1,10 +1,7 @@
 Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
 ============================
 
-Researcher
--------------------------
-
-* 🔭 I’m currently working on Rent Car project: [Angular](https://github.com/Ahmet-MahirDEMIRELLI/Rent-A-Car-Client) + [.Net 8](https://github.com/Ahmet-MahirDEMIRELLI/Rent-A-Car-Api)
+* 🔭 I’m currently working on a Rent Car project: [Angular](https://github.com/Ahmet-MahirDEMIRELLI/Rent-A-Car-Client) + [.Net 8](https://github.com/Ahmet-MahirDEMIRELLI/Rent-A-Car-Api)
 * 📫 How to reach me: a.mahir.demirelli@gmail.com
 
 ### Skills 
