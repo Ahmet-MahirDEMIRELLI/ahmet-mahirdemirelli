@@ -1,9 +1,20 @@
-## Hello there 👋
+Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
+============================
 
-My name is Ahmet Mahir, and I'm an Computer Engineering student at Yildiz Technical University.
+Researcher
+-------------------------
 
-- 🔭 I’m currently working on Rent Car project that has Angular project for [client](https://github.com/Ahmet-MahirDEMIRELLI/Rent-A-Car-Client) side and .Net 8 project for [API](https://github.com/Ahmet-MahirDEMIRELLI/Rent-A-Car-Api) side.
-- 📫 How to reach me: a.mahir.demirelli@gmail.com
+* 🔭 I’m currently working on Rent Car project: [Angular](https://github.com/Ahmet-MahirDEMIRELLI/Rent-A-Car-Client) + [.Net 8](https://github.com/Ahmet-MahirDEMIRELLI/Rent-A-Car-Api)
+* 📫 How to reach me: a.mahir.demirelli@gmail.com
+
+### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+
+
+
 <!--
 **Ahmet-MahirDEMIRELLI/ahmet-mahirdemirelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
