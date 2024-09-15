@@ -19,8 +19,10 @@ Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
 
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmet-MahirDEMIRELLI&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-MahirDEMIRELLI&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<!--
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-MahirDEMIRELLI&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
 <!--
 **Ahmet-MahirDEMIRELLI/ahmet-mahirdemirelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
