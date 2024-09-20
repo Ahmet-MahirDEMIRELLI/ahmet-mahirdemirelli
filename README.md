@@ -1,7 +1,7 @@
 Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
 ============================
 
-* 🔭 I’m currently working on a Rent Car project: [Angular](https://github.com/Ahmet-MahirDEMIRELLI/Rent-A-Car-Client) + [.Net 8](https://github.com/Ahmet-MahirDEMIRELLI/Rent-A-Car-Api)
+* 🔭 I’m currently working on a Sort Library in C
 * 📫 How to reach me: [a.mahir.demirelli@gmail.com](mailto:a.mahir.demirelli@gmail.com)
 
 ## Socials:
