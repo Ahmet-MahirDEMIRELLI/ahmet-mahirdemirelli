@@ -1,7 +1,7 @@
 Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
 ============================
 
-* 🔭 I’m currently working on a [Sort Library](https://github.com/Ahmet-MahirDEMIRELLI/Sort-Library) in C
+* 🔭 I’m currently working on a [Chess Table](https://github.com/Ahmet-MahirDEMIRELLI/ChessTable) 
 * 📫 How to reach me: [a.mahir.demirelli@gmail.com](mailto:a.mahir.demirelli@gmail.com)
 
 ## Socials:
