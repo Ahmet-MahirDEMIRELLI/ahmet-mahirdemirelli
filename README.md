@@ -1,7 +1,7 @@
 Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
 ============================
 
-* 🔭 I’m currently working on a [Chess Table](https://github.com/Ahmet-MahirDEMIRELLI/ChessTable) 
+* 🔭 I’m currently working on a web application for YTU Chess Robot Project with [YTU Chess Club](https://github.com/YTU-Satranc-Kulubu)
 * 📫 How to reach me: [a.mahir.demirelli@gmail.com](mailto:a.mahir.demirelli@gmail.com)
 
 ## Socials:
