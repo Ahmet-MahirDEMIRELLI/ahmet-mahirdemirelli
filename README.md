@@ -18,9 +18,9 @@ Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material-UI" /></a>&nbsp;&nbsp;
 
 ## GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmet-MahirDEMIRELLI&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmet-MahirDEMIRELLI&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Ahmet-MahirDEMIRELLI&show_icons=true&locale=en&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-MahirDEMIRELLI&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-MahirDEMIRELLI&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!--
