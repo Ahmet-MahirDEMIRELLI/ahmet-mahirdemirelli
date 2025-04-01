@@ -1,7 +1,7 @@
 Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
 ============================
 
-* 🔭 I’m currently working on a web application for YTU Chess Robot Project with [YTU Chess Club](https://github.com/YTU-Satranc-Kulubu)
+* 🔭 I’m currently working on a web application with [Agile-Victims](https://github.com/Agile-Victims)
 * 📫 How to reach me: [a.mahir.demirelli@gmail.com](mailto:a.mahir.demirelli@gmail.com)
 
 ## Socials:
