@@ -2,6 +2,7 @@ Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
 ============================
 
 * 🔭 I’m currently working on a web application with [Agile-Victims](https://github.com/Agile-Victims)
+* 🔭 I’m currently working on a web application for my Computer Project class using Java and Angular.
 * 📫 How to reach me: [a.mahir.demirelli@gmail.com](mailto:a.mahir.demirelli@gmail.com)
 
 ## Socials:
