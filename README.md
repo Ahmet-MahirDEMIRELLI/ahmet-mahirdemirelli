@@ -1,13 +1,14 @@
 Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
 ============================
 
-* 🔭 I’m currently working on a web application with [Agile-Victims](https://github.com/Agile-Victims)
 * 🔭 I’m currently working on a web application for my Computer Project class using Java and Angular.
+* 🔭 I’m currently working on a messaging app using .Net and Flutter.
 * 📫 How to reach me: [a.mahir.demirelli@gmail.com](mailto:a.mahir.demirelli@gmail.com)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-mahir-demirelli) 
 [![Linktree](https://img.shields.io/badge/Linktree-%230077B5.svg?logo=linktree&logoColor=green)](https://linktr.ee/ahmet.mahir.demirelli)
+[![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=globe&logoColor=white)](https://ahmet-mahirdemirelli.github.io/amd-portfolio/)
 
 ### Skills 
 <p align="left">
