@@ -1,7 +1,6 @@
 Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
 ============================
 
-* 🔭 I’m currently working on a web application for my Computer Project class using Java and Angular.
 * 🔭 I’m currently working on a messaging app using .Net and Flutter.
 * 📫 How to reach me: [a.mahir.demirelli@gmail.com](mailto:a.mahir.demirelli@gmail.com)
 
