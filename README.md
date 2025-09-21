@@ -1,7 +1,7 @@
 Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
 ============================
 
-* 🔭 I’m currently working on a messaging app using .Net and Flutter.
+<!--* 🔭 I’m currently working on a messaging app using .Net and Flutter. -->
 * 📫 How to reach me: [a.mahir.demirelli@gmail.com](mailto:a.mahir.demirelli@gmail.com)
 
 ## Socials:
