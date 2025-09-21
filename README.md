@@ -1,4 +1,4 @@
-Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
+Hi, I am Mahir 👋
 ============================
 
 <!--* 🔭 I’m currently working on a messaging app using .Net and Flutter. -->
