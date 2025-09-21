@@ -12,8 +12,6 @@ Hello there 👋 My name is AHMET MAHİR DEMİRELLİ
 ### Skills 
 <p align="left">
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt="ASP.NET Core" /></a>&nbsp;&nbsp;
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" /></a>&nbsp;&nbsp;
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="36" height="36" alt="Angular" /></a>&nbsp;&nbsp;
 <a href="https://docs.microsoft.com/en-us/sql/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="36" height="36" alt="MSSQL" /></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;&nbsp;
